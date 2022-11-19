@@ -40,8 +40,8 @@ features                                  :
     fontawesome_icon_name                 : calendar
 
   - title                                 : Digital Wardrobe
-    description                           : Search, filter, or sort all of your clothing and outfits that you save in less then a second.
-    fontawesome_icon_name                 : shirt
+    description                           : Search, filter, and sort all of your clothing and outfits that you save in less then a second.
+    fontawesome_icon_name                 : clothes-hanger
 
   - title                                 : Reminders
     description                           : Set a specific time for the app the send you a reminder to plan your outfit for the next day.
