@@ -36,12 +36,12 @@ youtube_username                          :
 features                                  :
     
   - title                                 : Calendar Planner
-    description                           : Plan out built outfits or exisiting ones on an integrated calendar.
+    description                           : Use the built-in calendar planner to schedule when to wear outfits that you create.
     fontawesome_icon_name                 : calendar
 
   - title                                 : Digital Wardrobe
-    description                           : Save, filter, and sort all of your clothing and outfits within your digital wardrobe.
-    fontawesome_icon_name                 : clothes-hanger
+    description                           : Search, filter, or sort all of your clothing and outfits that you save in less then a second.
+    fontawesome_icon_name                 : shirt
 
   - title                                 : Reminders
     description                           : Set a specific time for the app the send you a reminder to plan your outfit for the next day.
@@ -56,13 +56,8 @@ features                                  :
     fontawesome_icon_name                 : cloud
 
   - title                                 : Customize
-    description                           : Easily customize and edit any current outfits or clothing.
-    fontawesome_icon_name                 : pencil
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
+    description                           : Easily customize and edit any of your current outfits or clothing.
+    fontawesome_icon_name                 : pen
 
 
 # Theme Settings
