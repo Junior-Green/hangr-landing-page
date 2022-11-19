@@ -35,37 +35,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Calendar Planner
+    description                           : Plan out built outfits or exisiting ones on an integrated calendar.
+    fontawesome_icon_name                 : calendar
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Digital Wardrobe
+    description                           : Save, filter, and sort all of your clothing and outfits within your digital wardrobe.
+    fontawesome_icon_name                 : clothes-hanger
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Reminders
+    description                           : Set a specific time for the app the send you a reminder to plan your outfit for the next day.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Camera
+    description                           : Access the in-app camera to easily add new clothing to your collection.
+    fontawesome_icon_name                 : camera
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Cloud Storage
+    description                           : Save a backup of your digital wardrobe using our cloud services to gain access at anytime.
+    fontawesome_icon_name                 : cloud
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Customize
+    description                           : Easily customize and edit any current outfits or clothing.
+    fontawesome_icon_name                 : pencil
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
